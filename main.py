@@ -1,10 +1,10 @@
+import os
+import json
 import tensorflow as tf
 import tensorflow_datasets as tfds
-import json
 from tqdm import tqdm
 from joblib import Parallel, delayed
 import fire
-import os
 
 print(tf.__version__)
 
