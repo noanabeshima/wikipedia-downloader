@@ -13,4 +13,5 @@ Then install requirements
 ```bash install_requirements.sh```
 
 and run the script
+
 ```python main.py```
