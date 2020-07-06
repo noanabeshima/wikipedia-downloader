@@ -1,6 +1,6 @@
 # Download 2020 English Wikipedia 
 
-Downloads the 2020 [Wikipedia TensorFlow dataset](https://www.tensorflow.org/datasets/catalog/wikipedia) and converts it to a collection of JSON files, each a list of strings. Each string is a Wikipedia article.
+The code in this repo downloads the 2020 [Wikipedia TensorFlow dataset](https://www.tensorflow.org/datasets/catalog/wikipedia) and converts it to a collection of JSON files, each a list of strings. Each string is a Wikipedia article.
 
 To run, create a new conda environment with the commands
 
