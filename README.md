@@ -15,3 +15,5 @@ Then install requirements
 and run the script
 
 ```python main.py```
+
+JSON files will be saved in the 'output' folder.
