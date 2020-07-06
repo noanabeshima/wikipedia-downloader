@@ -5,6 +5,7 @@ Downloads the 2020 Wikipedia [TensorFlow dataset](https://www.tensorflow.org/dat
 To run, create a new conda environment with
 
 ```conda env --name wikipedia```
+
 ```conda activate wikipedia```
 
 Then install requirements
