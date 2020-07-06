@@ -1,7 +1,6 @@
-tensorflow>=2
-tensorflow_datasets
-tfds-nightly
-fire
+tensorflow==2
+tfds-nightly==3.1.0.dev202007060105
+fire==0.3.1
 tqdm
 joblib
 apache-beam
