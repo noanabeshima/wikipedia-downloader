@@ -6,8 +6,6 @@ from tqdm import tqdm
 from joblib import Parallel, delayed
 import fire
 
-print(tf.__version__)
-
 def process_article(article):
     # Converts an article to a single text file
     title = article['title'].numpy().decode('UTF-8')
