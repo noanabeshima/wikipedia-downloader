@@ -1,6 +1,6 @@
 tensorflow==2.2.0
 tfds-nightly==3.1.0.dev202007060105
 fire==0.3.1
-tqdm
-joblib
-apache-beam
+tqdm==4.47.0
+joblib==4.47.0
+apache-beam==2.22.0
